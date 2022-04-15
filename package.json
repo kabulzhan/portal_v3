@@ -2,7 +2,7 @@
   "name": "frontend-part",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kabulzhan.github.io/portal",
+  "homepage": ".",
   "dependencies": {
     "@draft-js-plugins/editor": "^4.1.2",
     "@hookform/resolvers": "^2.8.3",
