@@ -1,0 +1,14 @@
+{
+       "HeaderSiteNavList": {
+           "team": "Team",
+           "projects": "Projects",
+           "tasks": "Issue",
+           "settings": "Settings",
+           "links": "Linls",
+           "contankts": "Contankts"
+       },
+       "SiteNavInnerList": {
+           "manage_department": "Управление контактами",
+           "manage_position": "Управление должностями"
+       }
+}

@@ -1,0 +1,115 @@
+{
+    "common": {
+        "first_name": "Имя",
+        "last_name": "Фамилия",
+        "password": "Пароль",
+        "result": "Результат",
+
+        "rights": {
+            "rights": "Права",
+            "leader": "Лидер",
+            "links_edit": "Редактирование ссылок",
+            "contacts_view": "Просмотр контактов",
+            "team_edit": "Редактирование команды",
+            "team_hidden_fields": "просмотр скрытых полей у команды",
+            "team_search_edit": "Редактирование поиска команды",
+            "salary_view": "Просмотр заработной платы",
+            "payouts_view": "Просмотр выплат",
+            "payouts_edit": "Редактирование выплат",
+            "positions_edit": "Редактирование должностей",
+            "departments_edit": "Редактирование отделов",
+            "news_add": "Создание новостей"
+        }
+    },
+    "FormButtons": {
+        "add": "Добавить",
+        "edit": "Редактировать"
+    },
+    "HeaderSiteNavList": {
+        "team": "Команда",
+        "projects": "Проекты",
+        "tasks": "Мои задачи",
+        "settings": "Настройки",
+        "links": "Ссылки",
+        "contankts": "Контакты"
+    },
+    "SiteNavInnerList_1": {
+        "manage_department": "Управление отделами",
+        "manage_position": "Управление должностями"
+    },
+    "UserNavList": {
+        "edit": "Редактировать профиль",
+        "request_for_vacation": "Запрос на отпуск",
+        "log_out": "Выйти"
+    },
+    "TeamHeader": {
+        "team": "Команда",
+        "depatrments": "Отделы",
+        "create_departments": "Создание отдела",
+        "salaries": "Зарплаты",
+        "payments": "Выплаты",
+        "vacations": "Отпуска"
+    },
+    "DepartmentForm": {
+        "title_create": "Создание отдела",
+        "title_edit": "Редактировать отдел",
+        "label_title": "Название",
+        "head": "Руководитель отдела",
+        "label_head": "Выберите руководителя отдела",
+        "workers": "Состав отдела",
+        "label_workers": "Выберите состав отдела"
+    },
+    "EmployeesForm": {
+        "title_create": "Создание сотрудника",
+        "title_edit": "Редактирование сотрудника",
+        "first_name": "Имя",
+        "last_name": "Фамилия",
+        "gender": "Пол",
+        "male": "Мужской",
+        "female": "Женский",
+        "DOB": "Дата рождения",
+        "phone": "Телефон",
+        "other_contacts": "Другие контакты",
+        "email": "Электронная почта",
+        "address": "Адрес",
+        "position": "Должность",
+        "department": "Отдел",
+        "head_department": "Руководитель",
+        "start_to_work": "Дата выхода на работу",
+        "experience": "Стаж",
+        "access_to": "Права"
+    },
+    "Positions": {
+        "title_position": "Название должности",
+        "employees": "Сотрудники",
+        "position": "Должность"
+    },
+    "Project": {
+        "title_create": "Создать проект",
+        "title_edit": "Редактировать проект",
+        "title": "Название",
+        "description": "Описание",
+        "attendee_role": "Участники и роли",
+        "responsible": "Ответственный",
+        "executor": "Исполнитель",
+        "project_create_edit_tabs": {
+            "result": "результат",
+            "deadlines": "сроки",
+            "tags": "тэги",
+            "incoming_data": "входящие данные",
+            "outgoing_data": "исходящие данные"
+        },
+        "female": "Женский",
+        "DOB": "Дата рождения",
+        "phone": "Телефон",
+        "other_contacts": "Другие контакты",
+        "email": "Электронная почта",
+        "address": "Адрес",
+        "position": "Должность",
+        "department": "Отдел",
+        "head_department": "Руководитель",
+        "start_to_work": "Дата выхода на работу",
+        "experience": "Стаж",
+        "access_to": "Права"
+    }
+}

@@ -1,0 +1,10 @@
+.toolbar {
+  display: flex;
+  flex-direction: row;
+  /* border: 2px solid red; */
+}
+.toolbar__item {
+  margin-right: 5px;
+  background-color: rgb(204, 204, 204);
+  padding: 2px 12px;
+}

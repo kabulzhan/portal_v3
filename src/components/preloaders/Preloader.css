@@ -1,0 +1,16 @@
+.preloader {
+    margin: 0;
+    padding: 0;
+    padding-top: 300px;
+    width: 100%;
+    max-width: 800px;
+    margin: 0px auto;
+}
+.preloader-body {
+
+    margin: 0px auto;
+    left: 400px;
+    width: 100px;
+    height: 100px; 
+    
+}

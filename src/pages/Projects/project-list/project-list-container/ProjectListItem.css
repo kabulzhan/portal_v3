@@ -1,0 +1,7 @@
+.format--description strong,
+b {
+font-weight: bold;
+}
+.format--description i {
+  font-style: italic;
+}

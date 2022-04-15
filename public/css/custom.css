@@ -1,0 +1,59 @@
+
+/* ДОБАВЛЕННЫЕ СТИЛИ  */
+ .form__input--invalid {
+    border: 2px solid  #ff4d4f !important;
+  box-shadow: 0 0 4px rgba(255, 77, 79, 0.5) !important;
+}
+.hide {
+  display: none !important;
+}
+p {
+  /* color: red !important */
+}
+/* наверное не нужный класс, исп при обводке в css in js department form */
+.modal__row--gray {
+  border: 1px solid  #d9d9d9;
+}
+/* наверное не нужный класс, исп при обводке в css in js department form */
+.need--blue {
+  /* border-color: #1890ff;
+  box-shadow: 0 0 4px rgba(24, 144, 255, 0.5); */
+  border: 2px solid  #1890ff;
+  border-radius: 4px;
+/* border-color: #1890ff;
+  box-shadow: 0 0 4px rgba(24, 144, 255, 0.5); */
+
+    /* border-color: #003464 !important; */
+  /* box-shadow: 0 0 4px rgb(1, 54, 104) !important; */
+  box-shadow: 0 0 4px rgba(24, 144, 255, 0.5);
+}
+
+
+.modal__body--fix-height {
+height: 500px
+}
+.red {
+  background-color: rgb(255, 53, 53);
+}
+.border-red {
+  border:   1px solid red;
+}
+.test {
+  height : 900px
+}
+.m{
+  margin: 20px;
+}
+/* для меню в шапке */
+.z-index { 
+  z-index: 2;
+}
+.modal__textarea--height {
+  height: 40px
+}
+
+.red-test3 {
+  /* width:  30px; */
+  /* height: 30px; */
+  background-color: #00e444;
+}
